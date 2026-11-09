@@ -41,4 +41,3 @@ print(f"{nomor}. " + " + ".join(rincian))
 
 print("--------------------------------")
 print("Pencarian kombinasi selesai.")
-
